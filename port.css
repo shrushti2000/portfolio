@@ -1,0 +1,89 @@
+
+#m
+{
+position: static;
+	overflow: hidden;
+  background-color:rgba(11, 0, 77, 0.76);
+
+}
+
+.headerline
+{
+display: inline;
+padding: 40px;
+float: left;
+
+}
+
+headerline a:hover{
+background-color: rgba(149, 201, 6, 0.76);
+padding: 20px;
+}
+
+
+h1 a:hover{
+background-color: black;
+
+padding: 10px;
+border-radius: 20px;
+}
+
+a{
+	color: white;
+}
+
+
+
+.blue{
+	background-color: blue;
+ box-shadow: 10px 10px;
+	
+}
+
+.links
+{
+	display:block;
+	color: white;
+	padding: 50px;
+	font-size: 20px;
+	size: 20px;
+	background-color: seagreen;
+	
+
+
+}
+
+.Resume
+{
+
+	color: white;
+	background-color: red;
+	padding: 20px;
+	font-size: 20px;
+
+}
+img{
+	 border-radius: 10%;
+	 float: left;
+	 padding: 40px;
+}
+.maininfo
+{
+	padding: 40px;
+	height: 40%;
+	width: 70%;
+}
+
+.main1{
+	background-color: hsla(0, 100%, 30%, 0.3);
+
+
+}
+
+ol
+{
+
+overflow: hidden;
+ background-color: #333;
+
+}

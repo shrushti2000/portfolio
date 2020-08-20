@@ -1,0 +1,40 @@
+
+.red{
+	background-color: red
+
+}
+
+.blue{
+	background-color: blue;
+	
+}
+
+.green{
+	background-color: green
+	
+}
+
+.links
+{
+	color: white;
+	background-color: blue;
+	padding: 20px;
+	font-size: 20px;
+
+
+}
+
+.Resume
+{
+
+	color: white;
+	background-color: red;
+	padding: 20px;
+	font-size: 20px;
+
+}
+
+a{
+	color: white;
+}
+
